@@ -1,1 +1,1 @@
-Solved tasks for Data Science
+**Repository for the course Data Science in Python**
